@@ -4,5 +4,5 @@
 #' 
 #' @format A data frame.
 #' @source Triola, M. 2022. Elementary Statistics, 14th ed. Boston, MA: Pearson.
-#' @name ds1
+#' @name ds3
 NULL
