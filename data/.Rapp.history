@@ -1,0 +1,8 @@
+load("/Users/bnz_family/Dropbox/Keiser/R_Packages/kustats14/data/ds1.rda")
+ds1
+ds1.rda
+a,_load("/Users/bnz_family/Dropbox/Keiser/R_Packages/kustats14/data/ds1.rda")
+a<-load("/Users/bnz_family/Dropbox/Keiser/R_Packages/kustats14/data/ds1.rda")
+colnames(a)
+quit
+load("/Users/bnz_family/Dropbox/Keiser/R_Packages/kustats14/data/a.rda")
