@@ -1,0 +1,19 @@
+#' bears: Bears (measurements from anesthetized wild bears)
+#'
+#' The data are from Gary Alt and Minitab, Inc.
+#' \itemize{
+#' \item Age is in months
+#' \item Month is the month of measurement (1 = January)
+#' \item Sex is coded 1 = male and 2 = female
+#' \item Headlen is head length (inches)
+#' \item Headwth is width of head (inches)
+#' \item Neck is distance around neck (inches)
+#' \item Length is length of body (inches)
+#' \item Chest is distance around chest (inches)
+#' \item Weight is measured in pounds
+#' }
+#'
+#' @format A data frame with 54 rows and 9 variables
+#' @source Triola, M. 2014. Elementary Statistics, 12th ed. Boston, MA: Pearson.
+#' @name bears
+NULL
