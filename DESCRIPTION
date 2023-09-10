@@ -1,6 +1,6 @@
 Package: kustats14
 Title: Data and Functions for Introductory Statistics Courses at Keiser University
-Version: 14.0.6
+Version: 14.0.7
 Authors@R: 
     person("Nathanael", "Gay", , "ngay@keiseruniversity.edu", role = c("aut", "cre"),
            comment = "R port")
